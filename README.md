@@ -2,7 +2,7 @@ To reproduce the bug,
 
     git clone https://github.com/liorst/meteor-issue-1750.git
 
-Reme the autopublish package:
+Remove the autopublish package:
 
     meteor remove autopublish
 
